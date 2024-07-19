@@ -66,7 +66,7 @@ function asignarNumeroSecreto() {
 
 function condicionesIniciales() {
     asignarTextoElemento('h1','Juego del número secreto')
-    asignarTextoElemento('p','Indica un número del 1 al 10') 
+    asignarTextoElemento('p','Indica un número del 1 al 100') 
     numeroSecreto = asignarNumeroSecreto();
     intentos = 1;
     console.log(numeroSecreto);
