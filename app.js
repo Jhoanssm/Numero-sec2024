@@ -3,7 +3,7 @@
 // // variable.innerHTML = Comando que se asigna para hacer un parrafo dinámico con JS en la pag
 // titulo.innerHTML = 'Juego del Número Secreto';
 // let parrafo = document.querySelector('p');
-// parrafo.innerHTML = 'Dame un número del 1 al 10';
+// parrafo.innerHTML = 'Dame un número del 1 al 100';
 
 // // Se incluyen funciones, las CSSFontFeatureValuesRule, su nombre debe estar en html y en js en el mismo nombre
 
